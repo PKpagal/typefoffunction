@@ -32,7 +32,7 @@ This project demonstrates the creation, minting, burning, and transferring of a 
 - **Burn Function**: Allows burning tokens to reduce the total supply.
 
 ### Loom Video
-[Watch the walkthrough video here](your-loom-video-link)
+[https://www.loom.com/share/7ad362ea6b474c12bd49b4a5050aeeb2)
 
 ## Author
 **Prince Kumar**  
